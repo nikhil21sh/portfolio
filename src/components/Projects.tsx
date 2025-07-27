@@ -11,7 +11,7 @@ const Projects: React.FC = () => {
       gradient: "from-blue-500 to-cyan-500",
       status: "completed",
       url:"https://github.com/nikhil21sh/EDGE-virtual_assistant",
-      demo:"/public/Virt_Assistant.mp4"
+      demo:"/Virt_Assistant.mp4"
     },
     {
       title: "Doc Bot",
@@ -21,7 +21,7 @@ const Projects: React.FC = () => {
       gradient: "from-purple-500 to-pink-500",
       status: "completed",
       url:"https://github.com/nikhil21sh/DOC_BOT",
-      demo:"/public/doc_bot.mp4"
+      demo:"/doc_bot.mp4"
     },
     {
       title: "Multimodal Agent",
@@ -31,7 +31,7 @@ const Projects: React.FC = () => {
       gradient: "from-green-500 to-emerald-500",
       status: "completed",
       url:"https://github.com/nikhil21sh/MULTIMODAL-AGENT",
-      demo:"/public/multi_modal.mp4"
+      demo:"/multi_modal.mp4"
     },
     {
       title: "PolicyReader Bot",
